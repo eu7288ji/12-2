@@ -26,7 +26,7 @@ namespace Project_12_2
 
         private void btnExit_Click(object sender, EventArgs e) //close
         {
-            this.Close(); //close on click
+            this.Close(); //click to close
         }
     }
 }
